@@ -15,7 +15,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version.dummy>21</java.version.dummy>
+		<java.version.dummy>JDK-17.0.13</java.version.dummy>
 	</properties>
 
 	<dependencies>
